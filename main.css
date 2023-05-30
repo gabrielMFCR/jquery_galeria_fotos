@@ -54,7 +54,7 @@ ul li {
     list-style: none;
     position: relative;
     max-height: 280px;
-    overflow-y: hidden;
+    overflow-y: hidden; 
 }
 
 ul li img {
